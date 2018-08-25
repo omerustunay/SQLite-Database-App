@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataTableExam</string>
+    <string name="ad_soyad_giriniz">ad soyad giriniz</string>
+    <string name="adres_giriniz">adres giriniz</string>
+    <string name="e_mail_giriniz">e-mail giriniz</string>
+    <string name="listele">Listele</string>
+    <string name="kaydet">Kaydet</string>
+</resources>
